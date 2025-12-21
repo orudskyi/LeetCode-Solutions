@@ -1,6 +1,6 @@
 """
 Problem 9: Palindrome Number
-Category: AMath
+Category: Math
 Link: https://leetcode.com/problems/palindrome-number/description/?envType=study-plan-v2&envId=top-interview-150
 Difficulty: Easy
 """
