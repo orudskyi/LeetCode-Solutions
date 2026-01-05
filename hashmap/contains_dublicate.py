@@ -16,12 +16,12 @@ class Solution:
             seen.add(num)
         return False
         
-    
-    
+     
 def test_plus_one():
     s = Solution()
-    assert s.hasDuplicate([1,2,3,3]) == True
-    assert s.hasDuplicate([1,2,3,4]) == False
+    assert s.hasDuplicate([1,2,3,3])
+    assert not s.hasDuplicate([1,2,3,4])
+    
     
     
 if __name__ == "__main__":

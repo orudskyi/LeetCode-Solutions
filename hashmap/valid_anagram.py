@@ -26,8 +26,8 @@ class Solution:
     
 def test_plus_one():
     s = Solution()
-    assert s.isAnagram("anagram", "nagaram") == True
-    assert s.isAnagram("rat", "car") == False
+    assert s.isAnagram("anagram", "nagaram")
+    assert not s.isAnagram("rat", "car")
     
     
 if __name__ == "__main__":
