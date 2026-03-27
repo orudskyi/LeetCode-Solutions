@@ -1,8 +1,8 @@
 """
 Problem 703. Kth Largest Element in a Stream
 Category: Heap
-Link: https://neetcode.io/problems/search-for-word-ii/question
-Difficulty: Hard
+Link: https://neetcode.io/problems/kth-largest-integer-in-a-stream/question
+Difficulty: Medium
 """
 
 import heapq
